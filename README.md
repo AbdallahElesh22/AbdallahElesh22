@@ -1,8 +1,7 @@
+<img src="./.github/assets/2.gif" width="100">
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <img align="right" src="./.github/assets/1.gif" width="300px" />
 
 I'm **Abdallah Mohamed Alhesh**, a passionate **Data Scientist & AI/ML Engineer** focused on building intelligent systems that transform data into real-world solutions.
@@ -48,7 +47,7 @@ philosophy:
 
 ## 💻 Tech Stack
 
-### Languages
+#### Languages
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,7 +57,7 @@ philosophy:
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### AI / ML
+#### AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -72,7 +71,7 @@ philosophy:
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
 
-### Data
+#### Data
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -81,7 +80,7 @@ philosophy:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 
-### Backend / Tools
+#### Backend / Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -93,7 +92,7 @@ philosophy:
 ![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
-### Databases / Platforms
+#### Databases / Platforms
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
