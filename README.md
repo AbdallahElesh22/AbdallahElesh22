@@ -3,7 +3,7 @@
 
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="300px" />
+<img align="right" src="./.github/assets/Codingboy.gif" width="300px" />
 
 I'm **Abdallah Mohamed Alhesh**, a passionate **Data Scientist & AI/ML Engineer** focused on building intelligent systems that transform data into real-world solutions.
 
