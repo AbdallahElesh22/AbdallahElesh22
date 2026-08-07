@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue" alt="Python">
-</p>![Python](https://img.shields.io/badge/Python-blue)
+  <img src="https://raster.shields.io/badge/Python-blue.png" alt="Python">
+</p>
