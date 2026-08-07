@@ -138,6 +138,11 @@ Right now I'm diving into:
 - Contributing to open-source when I can
 - Building AI tools that have real impact
 
+## GitHub Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbdallahElesh22/AbdallahElesh22/output/snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                ENGINEERING PRINCIPLES SECTION                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
