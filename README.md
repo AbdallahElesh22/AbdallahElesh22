@@ -1,4 +1,12 @@
-<img src="./.github/assets/2.gif" width="100">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hi%20I'm%20Abdallah&fontSize=45&fontColor=ffffff&fontAlignY=45&animation=twinkling&color=gradient&customColorList=0,2,2,5,30" />
+</p>
+
+<p align="center">
+  <img src="./.github/assets/2.gif" width="100" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&duration=2500&pause=800&color=58A6FF&center=false&vCenter=true&width=400&lines=Data+Scientist;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Deep+Learning+%7C+NLP+Enthusiast;Turning+Data+Into+Intelligence" alt="Typing SVG" align="absmiddle" />
+</p>
+
 
 ### 👨‍💻 About Me
 
@@ -146,19 +154,12 @@ Right now I'm diving into:
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                ENGINEERING PRINCIPLES SECTION                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKiLWGfIUCw2j9dQ1/giphy.gif" width="28" /> Engineering Principles
-</h2>
-<p align="center">
-  <i>"The goal is to turn data into information, and information into insight."</i>
-</p>
-<p align="center">
-  🎯 <b>Impact-Driven</b> — Every model must solve a real problem<br/>
-  🧹 <b>Clean Code</b> — Readable, maintainable ML pipelines<br/>
-  ⚡ <b>Performance</b> — Optimized models without sacrificing accuracy<br/>
-  🔁 <b>Iterative</b> — Build, test, learn, and improve continuously<br/>
-  🤝 <b>Collaborative</b> — Clear communication of complex AI concepts
-</p>
+## Engineering Principles
+- Every model must solve a real problem
+- Readable, maintainable ML pipelines
+- Optimized models without sacrificing accuracy
+- Build, test, learn, and improve continuously
+- Clear communication of complex AI concepts
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CONNECT SECTION                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -192,52 +193,3 @@ Right now I'm diving into:
   <i>⭐ Star my repositories if you find them useful — it means a lot! ⭐</i>
 </p>
 
-
-
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" /> What I Build
-I mostly work on:
-Deep Learning Models — CNNs, Transformers, and custom architectures for vision and NLP
-Computer Vision Systems — Object detection, segmentation, face recognition, video analysis
-NLP Apps — Sentiment analysis, NER, text classification, LLM-based tools
-ML Pipelines — End-to-end flows from data cleaning to deployment
-AI Products — Stuff that actually works in production, not just notebooks
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Currently
-Right now I'm diving into:
-Multimodal AI (combining vision + language)
-MLOps and getting models to production properly
-Generative AI — diffusion models, GANs, and the whole generative space
-Contributing to open-source when I can
-Building AI tools that have real impact
-<img src="https://media.giphy.com/media/jSKiLWGfIUCw2j9dQ1/giphy.gif" width="28" /> How I Work
-"Ship fast, learn faster."
-I believe in:
-Solving real problems, not chasing leaderboard scores
-Writing clean code that others (and future me) can actually read
-Optimizing only when it matters
-Iterating quickly — build, test, break, fix, repeat
-Keeping things simple unless there's a good reason to complicate them
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28" /> Let's Talk
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdallah-mohamed-alhesh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdallahmohamedalhesh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/AbdallahElesh22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+to+collaborations+on+AI+%2F+ML+projects;Let's+build+something+awesome+together!" alt="Connect Message" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=E9A319&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Keep+learning%2C+keep+building%2C+keep+shipping+%F0%9F%9A%80" alt="Footer Message" />
-</p>
-<p align="center">
-  <i>⭐ Star my repos if you find them useful!</i>
-</p>
