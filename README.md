@@ -43,7 +43,9 @@ currently_learning:
 philosophy:
   "Data is the foundation, but intelligence is the engine.
    I build AI systems that don't just predict — they understand."
-  
+```
+
+
 ## 💻 Tech Stack
 
 ### Languages
