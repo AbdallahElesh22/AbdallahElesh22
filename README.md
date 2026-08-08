@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="./.github/assets/1.gif" width="300px" />
+<img align="right" src="./.github/assets/f.gif" width="300px" />
 
 I'm **Abdallah Mohamed Alhesh**, a passionate **Data Scientist & AI/ML Engineer** focused on building intelligent systems that transform data into real-world solutions.
 
