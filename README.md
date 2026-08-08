@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./.github/assets/hi.gif" width="100" align="absmiddle" />
+  <img src="./.github/assets/H.gif" width="100" align="absmiddle" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&duration=2500&pause=800&color=58A6FF&center=false&vCenter=true&width=400&lines=Data+Scientist;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Deep+Learning+%7C+NLP+Enthusiast;Turning+Data+Into+Intelligence" alt="Typing SVG" align="absmiddle" />
 </p>
 
